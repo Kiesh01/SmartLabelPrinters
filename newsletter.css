@@ -1,0 +1,717 @@
+.mediaViewInfo {
+	--web-view-name: newsletter;
+	--web-view-id: newsletter;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: newsletter;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#newsletter {
+	position: absolute;
+	width: 1311px;
+	height: 2087px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: newsletter;
+	--web-view-id: newsletter;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+#infosmartlabelcoke_salessmart2 {
+	left: 77px;
+	top: 115px;
+	position: absolute;
+	overflow: visible;
+	width: 166px;
+	height: 55px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+#IMG_8744 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 459px;
+	height: 350px;
+	left: 23px;
+	top: 213px;
+	overflow: visible;
+}
+#The_Power_of_Teamwork_Achievin {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 506px;
+	top: 169px;
+	position: absolute;
+	overflow: visible;
+	width: 765px;
+	height: 124px;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 2px;
+}
+#In_todays_fast-paced_world_whe {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 524px;
+	top: 219px;
+	position: absolute;
+	overflow: visible;
+	width: 759px;
+	height: 732px;
+	text-align: left;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 2px;
+}
+#Rectangle_26 {
+	opacity: 0.98;
+	fill: transparent;
+	stroke: rgba(255,165,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_26 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1293px;
+	height: 478px;
+	left: 15px;
+	top: 143px;
+}
+#IMG_8834 {
+	position: absolute;
+	width: 455px;
+	height: 303px;
+	left: 23px;
+	top: 742px;
+	overflow: visible;
+}
+#Building_Bonds_Beyond_Business {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 524px;
+	top: 676px;
+	position: absolute;
+	overflow: visible;
+	width: 767px;
+	height: 124px;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 2px;
+}
+#Rectangle_27 {
+	opacity: 0.98;
+	fill: transparent;
+	stroke: rgba(255,165,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_27 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1293px;
+	height: 554px;
+	left: 15px;
+	top: 625px;
+}
+#In_the_bustling_corridors_of_S {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 524px;
+	top: 721px;
+	position: absolute;
+	overflow: visible;
+	width: 747px;
+	height: 422px;
+	text-align: left;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 2px;
+}
+#The_EDALE_Beta_250_ {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 559px;
+	top: 1233px;
+	position: absolute;
+	overflow: visible;
+	width: 685px;
+	height: 124px;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 2px;
+}
+#Were_excited_to_unveil_the_lat {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 532px;
+	top: 1295px;
+	position: absolute;
+	overflow: visible;
+	width: 732px;
+	height: 296px;
+	text-align: left;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 2px;
+}
+#Rectangle_28 {
+	opacity: 0.98;
+	fill: transparent;
+	stroke: rgba(255,165,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_28 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1293px;
+	height: 452px;
+	left: 15px;
+	top: 1180px;
+}
+#IMG_8774 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 459px;
+	height: 306px;
+	left: 23px;
+	top: 1224px;
+	overflow: visible;
+}
+#Group_2 {
+	position: absolute;
+	width: 1368px;
+	height: 420px;
+	left: 0px;
+	top: 1674px;
+	overflow: visible;
+}
+#Rectangle_8 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+	width: 1312px;
+	height: 415px;
+	left: 0px;
+	top: 0px;
+}
+#GET_IN_TOUCH_ {
+	left: 36px;
+	top: 71px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	height: 214px;
+	text-align: right;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+	text-decoration: underline;
+}
+#phone {
+	position: absolute;
+	width: 26px;
+	height: 26px;
+	left: 37px;
+	top: 107px;
+	overflow: visible;
+}
+#gmail {
+	position: absolute;
+	width: 26px;
+	height: 26px;
+	left: 37px;
+	top: 175px;
+	overflow: visible;
+}
+#infosmartlabelcoke_salessmartl {
+	left: 77px;
+	top: 177px;
+	position: absolute;
+	overflow: visible;
+	width: 166px;
+	height: 55px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+#OUR_INFO__Home___Our_Services_ {
+	left: 572px;
+	top: 69px;
+	position: absolute;
+	overflow: visible;
+	width: 388px;
+	height: 214px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+	cursor: pointer;
+
+}
+#copy{
+	position: absolute;
+	left: 620px;
+	top: 388px;
+    text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+	
+}
+#ourinfo{
+	text-decoration: underline;
+			}
+#SUBSCRIBE_NEWSLETTER__Email__ {
+	left: 942px;
+	top: 67px;
+	position: absolute;
+	overflow: visible;
+	width: 388px;
+	height: 214px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+	text-decoration: underline;
+}
+
+#Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 220px;
+	height: 30px;
+	left: 939px;
+	top: 134px;
+	border-style: solid;
+	padding: 10px;
+	border-width: 0.1px;
+	border-radius: 5px;
+}
+#link{
+			text-decoration: none;
+			color:#ffffff;
+
+		}
+		#link:hover{
+			text-decoration: none;
+		     color: rgba(255,165,0,1);
+
+		}
+		#link1{
+			text-decoration: none;
+			color:#ffffff;
+
+
+		}
+		#link1:hover{
+			text-decoration: none;
+		    color: rgba(255,165,0,1);
+
+		}
+		#link2{
+			text-decoration: none;
+			color:#ffffff;
+		}
+		#link2:hover{
+			text-decoration: none;
+			color: rgba(255,165,0,1);
+		}
+		#link3{
+			text-decoration: none;
+			color: #ffffff;
+		}
+		#link3:hover{
+			text-decoration: none;
+			color: rgba(255,165,0,1);
+		}
+		
+
+		#link4{
+			text-decoration: none;
+			color: #ffffff;
+		}
+		#link4:hover{
+			text-decoration: none;
+			color: rgba(255,165,0,1);
+		}
+#empyr{
+  color:darkred;
+  position: absolute;
+  font-size:12px;
+  top:164px;
+  left: 939px;
+}
+#Rectangle_10 {
+	fill: rgba(255,165,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_10 {
+	position: absolute;
+	overflow: visible;
+	width: 95px;
+	height: 24px;
+	left: 939px;
+	top: 180px;
+}
+#subscribe_ {
+	left: 960px;
+	top: 185px;
+	position: absolute;
+	overflow: visible;
+	width: 388px;
+	height: 214px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+	cursor: pointer;
+}
+#Stay_in_The_Know_ {
+	left: 475px;
+	top: 364px;
+	position: absolute;
+	overflow: visible;
+	width: 388px;
+	height: 49px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+#instagram {
+	position: absolute;
+	width: 26px;
+	height: 26px;
+	left: 701px;
+	top: 357px;
+	overflow: visible;
+}
+#facebook {
+	position: absolute;
+	width: 26px;
+	height: 26px;
+	left: 772px;
+	top: 357px;
+	overflow: visible;
+}
+#linkedin {
+	position: absolute;
+	width: 26px;
+	height: 26px;
+	left: 626px;
+	top: 358px;
+	overflow: visible;
+}
+#ID1 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 1122px;
+	top: 1628px;
+	position: absolute;
+	overflow: visible;
+	width: 28px;
+	height: 17px;
+	text-align: left;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 2px;
+}
+#Next {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 1142px;
+	top: 1628px;
+	position: absolute;
+	overflow: visible;
+	width: 116px;
+	height: 17px;
+	text-align: left;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 2px;
+}
+#Group_12 {
+	position: absolute;
+	width: 1165px;
+	height: 151px;
+	left: 39px;
+	top: -4px;
+	overflow: visible;
+}
+#Asset_3 {
+	position: absolute;
+	width: 89px;
+	height: 130px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#SMARTLABEL__PRINTERS {
+	left: 89px;
+	top: 32px;
+	position: absolute;
+	overflow: visible;
+	width: 219px;
+	height: 119px;
+	text-align: center;
+	font-family: Epson LW Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,170,0,1);
+}
+#_HOME {
+	left: 476px;
+	top: 57px;
+	position: absolute;
+	overflow: visible;
+	width: 83px;
+	height: 36px;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 2px;
+	cursor: pointer;
+}
+#_HOME:hover{
+	color: rgba(255,165,0,1);
+}
+
+#_OUR_SERVICES_ {
+	left: 581px;
+	top: 57px;
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	height: 36px;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 2px;
+	cursor: pointer;
+}
+#_OUR_SERVICES_:hover{
+	color: rgba(255,165,0,1);
+}
+
+#_NEWSLETTER_ {
+	left: 782px;
+	top: 57px;
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	height: 47px;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 2px;
+	cursor: pointer;
+}
+#_ABOUT_US_ {
+	left: 983px;
+	top: 57px;
+	position: absolute;
+	overflow: visible;
+	width: 183px;
+	height: 50px;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 2px;
+	cursor: pointer;
+}
+#_ABOUT_US_:hover{
+	color: rgba(255,165,0,1);
+}
+
+#Group_3 {
+	position: absolute;
+	width: 290px;
+	height: 204px;
+	left: 603px;
+	top: 94px;
+	overflow: visible;
+	display: none;
+}
+#Rectangle_3 {
+	opacity: 0.78;
+	fill: rgba(169,169,169,1);
+}
+.Rectangle_3 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 302px;
+	height: 202px;
+	left: 0px;
+	top: 0px;
+}
+#Graphics_Design {
+	left: 26px;
+	top: 55px;
+	position: absolute;
+	overflow: visible;
+	width: 262px;
+	height: 31px;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 2px;
+}
+#Packaging {
+	left: 27px;
+	top: 129px;
+	position: absolute;
+	overflow: visible;
+	width: 262px;
+	height: 39px;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 2px;
+}
+#Quality_Assurance {
+	left: 26px;
+	top: 93px;
+	position: absolute;
+	overflow: visible;
+	width: 262px;
+	height: 39px;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 2px;
+}
+#Printing {
+	left: 29px;
+	top: 22px;
+	position: absolute;
+	overflow: visible;
+	width: 262px;
+	height: 31px;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 2px;
+}
+#Delivery {
+	left: 25px;
+	top: 165px;
+	position: absolute;
+	overflow: visible;
+	width: 262px;
+	height: 39px;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 2px;
+}
