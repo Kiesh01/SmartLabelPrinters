@@ -17,11 +17,12 @@
 	padding: 0;
 	box-sizing: border-box;
 	border: none;
+	overflow:hidden;
 }
 #aboutus {
 	
 	position: absolute;
-	width: 1311px;
+	width: 1310px;
 	height: 2353px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
