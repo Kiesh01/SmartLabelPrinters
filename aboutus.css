@@ -10,7 +10,7 @@
 	--web-enable-deep-linking: true;
 }
 :root {
-	
+	--web-view-ids: aboutus;
 }
 * {
 	
@@ -44,7 +44,7 @@
 	position: absolute;
 	width: 1316px;
 	height: 877px;
-	left: -12px;
+	left: 0px;
 	top: 126px;
 	overflow: visible;
 }
