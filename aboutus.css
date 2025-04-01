@@ -21,9 +21,7 @@
 	
 	
 }
-body{
-	margin:0px;
-}
+
 #aboutus {
 	
 	position: absolute;
@@ -40,7 +38,7 @@ body{
 	--web-center-horizontally: true;
 	--web-center-vertically: true;
 	--web-enable-deep-linking: true;
-	margin-left: 20px;
+
 }
 #IMG_8781 {
 	opacity: 0.12;
