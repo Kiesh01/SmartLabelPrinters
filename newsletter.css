@@ -13,11 +13,10 @@
 	--web-view-ids: newsletter;
 }
 * {
-	margin:0;
+	
 	padding: 0;
 	box-sizing: border-box;
 	border: none;
-	overflow-x:hidden;
 }
 #newsletter {
 	position: absolute;
@@ -34,7 +33,7 @@
 	--web-center-horizontally: true;
 	--web-center-vertically: true;
 	--web-enable-deep-linking: true;
-	
+
 }
 #infosmartlabelcoke_salessmart2 {
 	left: 77px;

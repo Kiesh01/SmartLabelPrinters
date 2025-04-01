@@ -1,0 +1,1266 @@
+.mediaViewInfo {
+	--web-view-name: index;
+	--web-view-id: index;
+  --web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: index;
+}
+* {
+
+
+	box-sizing: border-box;
+	border: none;
+	overflow-x: hidden;
+
+}
+#index {
+	position: absolute;
+	width: 1311px;
+	height: 4711px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: index;
+	--web-view-id: index;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+#Rectangle_98 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(255,165,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_98 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+
+	height: 973px;
+	left: 15px;
+	top: 1579px;
+}
+#Rectangle_90 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(255,165,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_90 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+
+	height: 623.761px;
+	left: 15px;
+	top: 990px;
+}
+#Image_1 {
+	position: absolute;
+
+	height: 681px;
+	left: 15px;
+	top: 26px;
+	overflow: hidden;
+}
+#Path_6 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(255,165,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_6 {
+	overflow: visible;
+	position: absolute;
+    
+	height: 121px;
+	left: 15px;
+	top: 1px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#infosmartlabelcoke_salessmart2 {
+	left: 77px;
+	top: 1895px;
+	position: absolute;
+	overflow: visible;
+	width: 166px;
+	height: 55px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+#Rectangle_4 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(255,165,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_4 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+
+	height: 330px;
+	left: 15px;
+	top: 707px;
+}
+#Path_1 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(255,165,0,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1{
+	width: 1275px;
+	left:15px;
+}
+	
+#Repeat_Grid_1 {
+	position: absolute;
+	width: 1266px;
+	height: 118px;
+	left: 24px;
+	top: 762px;
+	overflow: hidden;
+}
+#Repeat_Grid_1_0 {
+	position: absolute;
+	width: 1248px;
+	height: 100px;
+	left: 9px;
+	top: 6px;
+	overflow: visible;
+}
+#We_believe_in_the_power_of_pri {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 1249px;
+	height: 100px;
+	text-align: left;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#EXPERIENCE_THE_artistry_OF_LAB {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: -37px;
+	top: 719px;
+	position: absolute;
+	overflow: visible;
+	width: 884px;
+	height: 49px;
+	text-align: center;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,165,0,1);
+}
+#harpic_power_plus {
+	position: absolute;
+	width: 416px;
+	height: 415px;
+	left: 338px;
+	top: 1636px;
+	overflow: visible;
+}
+#Asset_1 {
+	position: absolute;
+	width: 350px;
+	height: 362px;
+	left: 40px;
+	top: 1662px;
+	overflow: visible;
+}
+#Asset_2 {
+	position: absolute;
+	width: 140px;
+	height: 217px;
+	left: 725px;
+	top: 1778px;
+	overflow: visible;
+}
+#ID3 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	width: 546px;
+	height: 545px;
+	left: 24px;
+	top: 1034px;
+	overflow: visible;
+}
+#Rectangle_73 {
+	opacity: 0.64;
+	fill: rgba(0,0,0,1);
+}
+.Rectangle_73 {
+	position: absolute;
+	overflow: visible;
+	
+	height: 586px;
+	left: 15px;
+	top: 121px;
+}
+#Crafting_Unique__Stickers {
+	left: 264px;
+	top: 254px;
+	position: absolute;
+	overflow: visible;
+	width: 839px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Aharoni;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 109px;
+	color: rgba(255,171,2,1);
+}
+#Your_Go-_To_printing_Source {
+	left: 464px;
+	top: 585px;
+	position: absolute;
+	overflow: visible;
+	width: 385px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Bodoni Bk BT;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#We_at_Smart_Label_Printers_are {
+	left: 30px;
+	top: 833px;
+	position: absolute;
+	overflow: hidden;
+	width: 1254px;
+	height: 68px;
+	text-align: left;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#We_at_Smart_Label_Printers_not {
+	left: 536px;
+	top: 1175px;
+	position: absolute;
+	overflow: visible;
+	width: 729px;
+	height: 132px;
+	text-align: center;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#Image_2 {
+	position: absolute;
+	width: 308px;
+	height: 373px;
+	left: 972px;
+	top: 1678px;
+	overflow: visible;
+}
+#Image_3 {
+	position: absolute;
+	width: 505px;
+	height: 361px;
+	left: 115px;
+	top: 2116px;
+	overflow: visible;
+}
+#Image_4 {
+	position: absolute;
+	width: 488px;
+	height: 366px;
+	left: 701px;
+	top: 2111px;
+	overflow: visible;
+}
+#Read_More {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 1110px;
+	top: 940px;
+	position: absolute;
+	overflow: visible;
+	width: 95px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: #ffffff;
+	background-color: #000000;
+	text-align: center;
+	padding: 5px;
+	border-radius: 20px;
+	cursor: pointer;
+}
+#Read_More:hover{
+	top: 930px;
+	background-color: rgba(255,165,0,1);
+}
+#Group_12 {
+	position: absolute;
+	width: 1165px;
+	height: 151px;
+	left: 39px;
+	top: -4px;
+	overflow: visible;
+}
+#Asset_3 {
+	position: absolute;
+	width: 89px;
+	height: 130px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#SMARTLABEL__PRINTERS {
+	left: 89px;
+	top: 32px;
+	position: absolute;
+	overflow: visible;
+	width: 219px;
+	height: 119px;
+	text-align: center;
+	font-family: Epson LW Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(255,170,0,1);
+}
+#_HOME {
+	left: 476px;
+	top: 57px;
+	position: absolute;
+	overflow: visible;
+	width: 83px;
+	height: 36px;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 2px;
+	cursor: pointer;
+}
+#_OUR_SERVICES_ {
+	left: 581px;
+	top: 57px;
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	height: 36px;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 2px;
+	cursor: pointer;
+}
+
+#_OUR_SERVICES_:HOVER{
+	color:rgba(255,165,0,1) ;
+}
+#_NEWSLETTER_ {
+	left: 782px;
+	top: 57px;
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	height: 47px;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 2px;
+	cursor: pointer;
+}
+
+#_NEWSLETTER_:hover{
+	color:rgba(255,165,0,1) ;
+}
+#_ABOUT_US_ {
+	left: 983px;
+	top: 57px;
+	position: absolute;
+	overflow: visible;
+	width: 183px;
+	height: 50px;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 2px;
+	cursor: pointer;
+}
+#_ABOUT_US_:hover{
+  color:rgba(255,165,0,1) ;
+}
+#Group_13 {
+	position: absolute;
+	width: 1311px;
+	height: 2197px;
+	left: 0px;
+	top: 2519px;
+	overflow: hidden;
+	
+}
+#Rectangle_99 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(255,165,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+
+}
+.Rectangle_99 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+
+	height: 420px;
+   left:15px;
+	top: 1380px;
+}
+#Rectangle_97 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(255,165,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_97 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	
+	height: 603px;
+	left: 15px;
+	top: 247px;
+}
+#Rectangle_84 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(255,165,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_84 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	left:15px;
+	height: 604px;
+	
+	top: 803px;
+}
+#Rectangle_81 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(255,165,0,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_81 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+
+	height: 286px;
+	left: 15px;
+	top: 0px;
+}
+#Rectangle_8 {
+	fill: rgba(0,0,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+
+	height: 415px;
+	left: 0px;
+	top: 1782px;
+}
+#GET_IN_TOUCH_ {
+	left: 36px;
+	top: 1853px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	height: 214px;
+	text-align: right;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+	text-decoration: underline;
+}
+#phone {
+	position: absolute;
+	width: 26px;
+	height: 26px;
+	left: 37px;
+	top: 1889px;
+	overflow: visible;
+}
+#gmail {
+	position: absolute;
+	width: 26px;
+	height: 26px;
+	left: 37px;
+	top: 1957px;
+	overflow: visible;
+}
+#infosmartlabelcoke_salessmartl {
+	left: 77px;
+	top: 1959px;
+	position: absolute;
+	overflow: visible;
+	width: 166px;
+	height: 55px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+#ourinfo{
+	text-decoration: underline;
+			}
+#OUR_INFO__Home___Our_Services_ {
+	left: 570px;
+	top: 1851px;
+	position: absolute;
+	overflow: visible;
+	width: 388px;
+	height: 214px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+	cursor: pointer;
+	
+}
+#copy{
+	position: absolute;
+	left: 620px;
+	top: 2170px;
+    text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+	
+}
+#SUBSCRIBE_NEWSLETTER__Email__ {
+	left: 939px;
+	top: 1849px;
+	position: absolute;
+	overflow: visible;
+	width: 371px;
+	height: 214px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+	text-decoration: underline;
+}
+
+#Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 281px;
+	height: 30px;
+	left: 936px;
+	top: 1916px;
+	border-style: solid;
+	padding: 10px;
+	border-width: 0.1px;
+	border-radius: 5px;
+}
+#link{
+			text-decoration: none;
+			color:#ffffff;
+
+		}
+		#link:hover{
+			text-decoration: none;
+		     color: rgba(255,165,0,1);
+
+		}
+		#link1{
+			text-decoration: none;
+			color:#ffffff;
+
+
+		}
+		#link1:hover{
+			text-decoration: none;
+		    color: rgba(255,165,0,1);
+
+		}
+		#link2{
+			text-decoration: none;
+			color:#ffffff;
+		}
+		#link2:hover{
+			text-decoration: none;
+			color: rgba(255,165,0,1);
+		}
+		#link3{
+			text-decoration: none;
+			color: #ffffff;
+		}
+		#link3:hover{
+			text-decoration: none;
+			color: rgba(255,165,0,1);
+		}
+		
+
+		#link4{
+			text-decoration: none;
+			color: #ffffff;
+		}
+		#link4:hover{
+			text-decoration: none;
+			color: rgba(255,165,0,1);
+		}
+#empyr{
+	color:darkred;
+	position: absolute;
+	left: 936px;
+	top: 1949px;
+	font-size: 12px;
+	     	}
+#Rectangle_10 {
+	fill: rgba(255,165,0,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_10 {
+	position: absolute;
+	overflow: visible;
+	width: 95px;
+	height: 24px;
+	left: 936px;
+	top: 1965px;
+}
+#subscribe_ {
+	left: 960px;
+	top: 1970px;
+	position: absolute;
+	overflow: hidden;
+	width: 112px;
+	height: 26px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+	cursor: pointer;
+}
+#Stay_in_The_Know_ {
+	left: 474px;
+	top: 2146px;
+	position: absolute;
+	overflow: visible;
+	width: 388px;
+	height: 51px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+#instagram {
+	position: absolute;
+	width: 26px;
+	height: 26px;
+	left: 699px;
+	top: 2139px;
+	overflow: visible;
+}
+#facebook {
+	position: absolute;
+	width: 26px;
+	height: 26px;
+	left: 770px;
+	top: 2139px;
+	overflow: visible;
+}
+#linkedin {
+	position: absolute;
+	width: 26px;
+	height: 26px;
+	left: 625px;
+	top: 2140px;
+	overflow: visible;
+}
+#Group_9 {
+	position: absolute;
+	width: 1019px;
+	height: 359px;
+	left: 143px;
+	top: 1406px;
+	overflow: visible;
+}
+#ID10110071high {
+	position: absolute;
+	width: 166px;
+	height: 89px;
+	left: 0px;
+	top: 29px;
+	overflow: visible;
+}
+#full-m2i8m2H7d3G6H7i8-removebg {
+	position: absolute;
+	width: 190px;
+	height: 249px;
+	left: 7px;
+	top: 110px;
+	overflow: visible;
+}
+#KSL-Logo-removebg-preview {
+	position: absolute;
+	width: 159px;
+	height: 140px;
+	left: 264px;
+	top: 0px;
+	overflow: visible;
+}
+#download_2 {
+	position: absolute;
+	width: 89.928px;
+	height: 138.122px;
+	left: 304.065px;
+	top: 157.18px;
+	overflow: visible;
+}
+#Di3qIJjXcAAwl_d {
+	position: absolute;
+	width: 234px;
+	height: 102px;
+	left: 482px;
+	top: 29px;
+	overflow: visible;
+}
+#download__3_-removebg-preview {
+	position: absolute;
+	width: 140px;
+	height: 140px;
+	left: 526px;
+	top: 167px;
+	overflow: visible;
+}
+#Asset_5 {
+	position: absolute;
+	width: 96px;
+	height: 114px;
+	left: 800px;
+	top: 29px;
+	overflow: visible;
+}
+#unnamed-removebg-preview {
+	position: absolute;
+	width: 257px;
+	height: 257px;
+	left: 728px;
+	top: 100px;
+	overflow: visible;
+}
+#Premium_Drinking_Water {
+	left: 797px;
+	top: 271px;
+	position: absolute;
+	overflow: visible;
+	width: 223px;
+	height: 34px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(112,112,112,1);
+}
+#Rectangle_42 {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 626;
+	height: 446;
+	left: 18px;
+	top: 890px;
+	overflow: visible;
+}
+#Get_In_Touch_With_us_here_with {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 203px;
+	top: 276px;
+	position: absolute;
+	overflow: visible;
+	width: 908px;
+	height: 78px;
+	text-align: center;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 2px;
+}
+#Why_Choose_Us_ {
+	left: 33px;
+	top: 29px;
+	position: absolute;
+	overflow: visible;
+	width: 434px;
+	height: 63px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 44px;
+	color: rgba(0,0,0,1);
+}
+#We_deliver_on_what_matters_mos {
+	left: 33px;
+	top: 102px;
+	position: absolute;
+	overflow: visible;
+	width: 1246px;
+	height: 125px;
+	text-align: left;
+	font-family: Source Sans Pro;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#LOCATION {
+	left: 771px;
+	top: 832px;
+	position: absolute;
+	overflow: visible;
+	width: 340px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 2px;
+}
+#HOW_WE_WORK {
+	left: 65px;
+	top: 832px;
+	position: absolute;
+	overflow: visible;
+	width: 498px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 2px;
+}
+#Rectangle_85 {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 639;
+	height: 445;
+	left: 649px;
+	top: 892px;
+	overflow: visible;
+}
+#Group_11 {
+	position: absolute;
+	width: 407px;
+	height: 422px;
+	left: 426px;
+	top: 367px;
+	overflow: visible;
+}
+#Rectangle_39 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(255,165,0,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_39 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 402px;
+	height: 440px;
+	left: 0px;
+	top: 0px;
+}
+#Full_Name {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 19px;
+	top: 51px;
+	position: absolute;
+	overflow: visible;
+	width: 195px;
+	height: 25px;
+	text-align: left;
+	font-family: Perpetua Titling MT;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 2px;
+}
+#Company_Name {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 20px;
+	top: 127px;
+	position: absolute;
+	overflow: visible;
+	width: 240px;
+	height: 18px;
+	text-align: left;
+	font-family: Perpetua Titling MT;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 2px;
+}
+#Email {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 213px;
+	top: 50px;
+	position: absolute;
+	overflow: visible;
+	width: 153px;
+	height: 20px;
+	text-align: left;
+	font-family: Perpetua Titling MT;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 2px;
+}
+#Fill_In_Your_Details {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 13px;
+	top: 5px;
+	position: absolute;
+	overflow: visible;
+	width: 395px;
+	height: 28px;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 2px;
+}
+#Rectangle_38 {
+	fill: rgba(255,165,0,1);
+}
+.Rectangle_38 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	width: 120.586px;
+	height: 38.708px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(0px, 0.022px) matrix(1,0,0,1,218.3286,359.2366) rotate(-1deg);
+	transform-origin: center;
+	top:10px;
+
+}
+#empy{
+	left: 19px;
+	top: 105px;
+    position: absolute;
+	color:darkred;
+	font-size: 12px;
+}
+#empy2{
+    left: 193px;
+	top: 105px;
+	position: absolute;
+	color:darkred;
+	font-size: 12px;
+}
+#empy3{
+	left: 19px;
+	top: 180px;
+	position: absolute;
+	color:darkred;
+	font-size: 12px;	
+}
+#Rectangle_37 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 337px;
+	height: 120px;
+	left: 20px;
+	top: 236px;
+	border-style: solid;
+	padding: 10px;
+	border-width: 0.1px;
+	border-radius: 5px;
+}
+#Submit {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 235px;
+	top: 375px;
+	position: absolute;
+	overflow: visible;
+	width: 98px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Arial;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 2px;
+	cursor: pointer;
+}
+#Enquiry {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	left: 32px;
+	top: 207px;
+	position: absolute;
+	overflow: visible;
+	width: 170px;
+	height: 33px;
+	text-align: left;
+	font-family: Perpetua Titling MT;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 2px;
+}
+
+#Rectangle_94 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	height: 25px;
+	left: 19px;
+	top: 78px;
+	border-style: solid;
+	padding: 10px;
+	border-width: 0.1px;
+	border-radius: 5px;
+	}
+
+
+#Rectangle_95 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 180px;
+	height: 25px;
+	left: 193px;
+	top: 78px;
+	border-style: solid;
+	padding: 10px;
+	border-width: 0.1px;
+	border-radius: 5px;
+}
+
+#Rectangle_96 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	height: 25px;
+	left: 19px;
+	top: 153px;
+	border-style: solid;
+	padding: 10px;
+	border-width: 0.1px;
+	border-radius: 5px;
+}
+#Group_3 {
+	position: absolute;
+	width: 290px;
+	height: 204px;
+	left: 603px;
+	top: 94px;
+	overflow: visible;
+	display: none;
+}
+#Rectangle_3 {
+	opacity: 0.78;
+	fill: rgba(169,169,169,1);
+}
+.Rectangle_3 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 302px;
+	height: 202px;
+	left: 0px;
+	top: 0px;
+}
+#Graphics_Design {
+	left: 26px;
+	top: 55px;
+	position: absolute;
+	overflow: visible;
+	width: 262px;
+	height: 31px;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 2px;
+}
+#Packaging {
+	left: 27px;
+	top: 129px;
+	position: absolute;
+	overflow: visible;
+	width: 262px;
+	height: 39px;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 2px;
+}
+#Quality_Assurance {
+	left: 26px;
+	top: 93px;
+	position: absolute;
+	overflow: visible;
+	width: 262px;
+	height: 39px;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 2px;
+}
+#Printing {
+	left: 29px;
+	top: 22px;
+	position: absolute;
+	overflow: visible;
+	width: 262px;
+	height: 31px;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 2px;
+}
+#Delivery {
+	left: 25px;
+	top: 165px;
+	position: absolute;
+	overflow: visible;
+	width: 262px;
+	height: 39px;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,165,0,1);
+	letter-spacing: 2px;
+}
