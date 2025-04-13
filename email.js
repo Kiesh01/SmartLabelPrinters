@@ -57,7 +57,7 @@ function validate(){
 		message : document.getElementById('Rectangle_37').value
 	}
 	emailjs.send("service_mc3sukp","template_h446od2", params).then(function(res){
-		alert("Success!"+ res.status);
+		alert("Enquiry Successfully Received");
 		location.reload();
 	})
 }
@@ -104,7 +104,7 @@ function feedback(){
 		message : document.getElementById('Rectangle_37').value
 	}
 	emailjs.send("service_mc3sukp","template_h446od2", params).then(function(res){
-		alert("Success!"+ res.status);
+		alert("Thank you for your feedback.");
 		location.reload();
 	})
 }
@@ -145,7 +145,7 @@ function feedback(){
 		
 	}
 	emailjs.send("service_mc3sukp","template_sgvg0rm", params).then(function(res){
-		alert("Success!"+ res.status);
+		alert("Thank you for Subscribing");
 		location.reload();
 	})
 }
