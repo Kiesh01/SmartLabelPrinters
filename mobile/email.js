@@ -105,7 +105,7 @@ function feedback(){
 		message : document.getElementById('Rectangle_z37').value
 	}
 	emailjs.send("service_mc3sukp","template_h446od2", params).then(function(res){
-		alert("Feedback Successfully Received");
+		alert("Thank you for your feedback.");
 		location.reload();
 	})
 }
