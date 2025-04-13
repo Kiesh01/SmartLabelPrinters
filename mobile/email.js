@@ -58,7 +58,7 @@ function validate(){
 		message : document.getElementById('Rectangle_37').value
 	}
 	emailjs.send("service_mc3sukp","template_h446od2", params).then(function(res){
-		alert("Success!"+ res.status);
+		alert("Enquiry Successfully Received!");
 		location.reload();
 	})
 }
@@ -105,7 +105,7 @@ function feedback(){
 		message : document.getElementById('Rectangle_z37').value
 	}
 	emailjs.send("service_mc3sukp","template_h446od2", params).then(function(res){
-		alert("Success!"+ res.status);
+		alert("Feedback Successfully Received");
 		location.reload();
 	})
 }
