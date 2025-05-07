@@ -70,3 +70,5 @@ yieldmo.com, 2676856567361380607, DIRECT
 # 21202
 google.com, pub-6452660186482325, DIRECT, f08c47fec0942fa0
 Redirect 301 /ads.txt https://srv.adstxtmanager.com/19390/smartlabelprinters.org
+ezoic.ai, 1c2322810d5e8c311d9afcd2819302c2, DIRECT
+ezoic.co.uk, 1c2322810d5e8c311d9afcd2819302c2, DIRECT
