@@ -1,5 +1,5 @@
 #Ads.txt smartlabelprinters.org
-Redirect 301 /ads.txt https://srv.adstxtmanager.com/19390/smartlabelprinters.org
+
 # 35
 themediagrid.com, 4M5PGT, DIRECT, 35d5010d7789b49d
 themediagrid.com, Q19AKF, DIRECT, 35d5010d7789b49d
@@ -69,3 +69,4 @@ yieldmo.com, 2834292204858450860, DIRECT
 yieldmo.com, 2676856567361380607, DIRECT
 # 21202
 google.com, pub-6452660186482325, DIRECT, f08c47fec0942fa0
+Redirect 301 /ads.txt https://srv.adstxtmanager.com/19390/smartlabelprinters.org
