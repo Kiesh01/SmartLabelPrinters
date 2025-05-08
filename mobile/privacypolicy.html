@@ -1,0 +1,54 @@
+<html>
+<head>
+
+</head>
+<body>
+	<h1><label id="ppl">Privacy Policy</label></h1>
+	<iframe id="pp" src="Privacy_Policy_SmartLabelPrinters.pdf#toolbar=0&navpanes=0" width="27%" height="600px"></iframe>
+      <div id="consent"> <input type="checkbox" id="agreeCheckbox"> I agree to the terms and conditions<br><br><button onclick='history.back()' id="togglebutton" disabled>PREVIOUS</button></div>
+	<style>
+          #pp{
+          	position: absolute;
+          	left:18px;
+          	top:100px;
+          }
+          #ppl{
+          	position: absolute;
+          	left:18px;
+          	top:40px;
+          }
+          #consent{
+          	position: absolute;
+          	top:750px;
+          	left:18px;
+         
+          	width:700px;
+          	height: 30px;
+          
+          }
+          #btn{
+          	position: absolute;
+                left:18px;
+         
+          
+          }
+          #togglebutton{
+
+          	position: absolute;
+          	padding: 10px;
+          	border-radius: 10px;
+                left:18px;
+          	
+          }
+	</style>
+	 <script>
+        
+   const button = document.getElementById('togglebutton');
+    const checkbox = document.getElementById('agreeCheckbox');
+checkbox.addEventListener('change', function () {
+        button.disabled = !checkbox.checked;
+    });
+ </script>
+</body>
+
+</html>
