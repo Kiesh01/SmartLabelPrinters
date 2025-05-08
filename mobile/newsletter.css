@@ -13,6 +13,25 @@
 	box-sizing: border-box;
 	border: none;
 }
+#policy{
+	left: 70px;
+	top: 550px;
+	position: absolute;
+	overflow: visible;
+	width: 183px;
+	height: 50px;
+	--web-animation: fadein 0.20000000298023224s ease-in-out;
+	--web-action-type: page;
+	--web-action-target: aboutus.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Times New Roman;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 2px;
+}
 #newsletter__1 {
 	position: absolute;
 	width: 430px;
